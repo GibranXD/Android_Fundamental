@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RestaurantReview" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="GithubTheme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/lightpurple</item>
+    </style>
+
+    <style name="DetailTheme" parent="Theme.Material3.DayNight.NoActionBar">
+
+
+    </style>
+
+    <style name="SettingTheme" parent="Theme.Material3.DayNight">
+
+    </style>
+
+    <style name="FavTheme" parent="Theme.Material3.DayNight">
+
+    </style>
+</resources>
